@@ -60,7 +60,8 @@ Nexus DataLens is a **serverless, cloud-native data pipeline** designed to simpl
 ##  Architecture Overview
 
 ## 🏗️ Architecture
-![Architecture Diagram](https://raw.githubusercontent.com/prince07-bot/Nexus-Datalens-2.0/main/architecture.jpg)
+<img width="1379" height="917" alt="Architecture" src="https://github.com/user-attachments/assets/b187f773-43bc-4667-913b-9ff20a2276e1" />
+
 
 ---
 
